@@ -1,14 +1,15 @@
 body {
-    background-color: rgb(133, 12, 12);
+    background-color: rgb(165, 5, 5);
     justify-content: center;
     align-items: center;
     display: flex;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdanaoooooo, sans-serif;
+
 }
 .box {
-    background-color: red;
+    background-color: rgb(255, 68, 68);
     width: 500px;
-    height: 500px;
+    height: 580px;
     padding: 20px;
 }
 .title {
